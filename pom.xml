@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.quartzdemo</groupId>
-	<artifactId>quartz-demo</artifactId>
+	<artifactId>quartzdemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>quartz-demo</name>
+	<name>quartzdemo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
